@@ -1,0 +1,8 @@
+{
+  "name": "3cnova",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "64eabbc7"
+}
